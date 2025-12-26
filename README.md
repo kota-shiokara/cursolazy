@@ -1,0 +1,2 @@
+# cursolazy
+Lazyなカーソル
